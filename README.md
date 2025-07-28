@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🪨📄✂️ Stone Paper Scissors Game
 
 A fun and interactive **Stone Paper Scissors** (Rock Paper Scissors) game built with **HTML**, **CSS**, and **JavaScript**. Challenge the computer, animations, and be the first to score 5 points!
@@ -45,3 +46,7 @@ A fun and interactive **Stone Paper Scissors** (Rock Paper Scissors) game built 
 
 ```bash
 git clone https://github.com/your-username/rock-paper-scissors.git
+=======
+# rock-paper-scissors
+A fun and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript with animations and score tracking.
+>>>>>>> a1e9dd02628e961849b962771c2d0a1a19168d1d
