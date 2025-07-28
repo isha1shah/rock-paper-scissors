@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# 🪨📄✂️ Stone Paper Scissors Game
+# 🪨📄✂️ Rock Paper Scissors Game
 
-A fun and interactive **Stone Paper Scissors** (Rock Paper Scissors) game built with **HTML**, **CSS**, and **JavaScript**. Challenge the computer, animations, and be the first to score 5 points!
+A fun and interactive **Rock Paper Scissors** (Stone Paper Scissors) game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer, enjoy animations, and be the first to score 5 points!
 
 ---
 
@@ -9,44 +8,43 @@ A fun and interactive **Stone Paper Scissors** (Rock Paper Scissors) game built 
 
 🔗 [Click here to play the game](https://isha1shah.github.io/rock-paper-scissors)
 
-> *(Replace the link with your actual GitHub Pages link after deployment)*
-
 ---
 
 ## 🎮 Features
 
-- 🎲 Player vs Computer mode
-- 🔢 Score tracking (First to 5 wins)
-- 🔊 Sound effects on win, lose, and draw
-- ✨ Glow and bounce animation effects
-- 🎉 Emoji celebration for match win
-- 🖥️ Responsive UI (works on desktop and mobile)
+- 🧠 Player vs Computer mode  
+- 🧮 Score tracking (First to 5 wins)  
+- 🎉 Celebration with emoji effects on win  
+- 🖥️ Responsive design for all devices  
+- 🔊 Win/Loss sound effects  
 
 ---
 
-## 📷 Screenshots
+## 📸 Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](rock-paper-scissors.png)
 
-> *(You can take a screenshot of your game and save it as `screenshot.png` in the repo)*
+> *(Make sure this image exists in your repository root directory)*
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 (animations, transitions)
-- JavaScript (DOM manipulation, logic)
+- **HTML5**
+- **CSS3** (Animations, transitions)
+- **JavaScript** (DOM manipulation, game logic)
 
 ---
 
-## 🧑‍💻 How to Run Locally
+## 🧑‍💻 Run Locally
 
-1. Clone the repository:
+To run the game locally on your system:
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
-=======
-# rock-paper-scissors
-A fun and interactive Stone Paper Scissors game built using HTML, CSS, and JavaScript with animations and score tracking.
->>>>>>> a1e9dd02628e961849b962771c2d0a1a19168d1d
+# Clone the repository
+git clone https://github.com/isha1shah/rock-paper-scissors.git
+
+# Go to the project directory
+cd rock-paper-scissors
+
+# Open index file in your browser
