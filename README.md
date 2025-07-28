@@ -16,7 +16,6 @@ A fun and interactive **Rock Paper Scissors** (Stone Paper Scissors) game built 
 - 🧮 Score tracking (First to 5 wins)  
 - 🎉 Celebration with emoji effects on win  
 - 🖥️ Responsive design for all devices  
-- 🔊 Win/Loss sound effects  
 
 ---
 
