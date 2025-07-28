@@ -23,7 +23,7 @@ A fun and interactive **Rock Paper Scissors** (Stone Paper Scissors) game built 
 
 ![Game Screenshot](rock-paper-scissors.png)
 
-> *(Make sure this image exists in your repository root directory)*
+
 
 ---
 
